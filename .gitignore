@@ -1,0 +1,10 @@
+image-scaler/node_modules/@jimp/core/dist/constants.js.map
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/uploads
+
+combined.log
